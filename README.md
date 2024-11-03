@@ -1,3 +1,4 @@
+![](https://github.com/Bossgod360/Ascendance-Kingdom/blob/main/opening.gif)
 # Ascendance Kingdom
 **Ascendance Kingdom** is a 2D open-world adventure game that combines RPG elements with strategic combat mechanics inspired by Mortal Kombat and classic JRPGs. As a player, you embark on a journey to become the "Domain King," navigating a world filled with quests, NPCs, and intense battles.
 
